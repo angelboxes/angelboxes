@@ -1,4 +1,5 @@
 ### Hi there 👋
+- ⚡ Fun fact: I really LOVE Pokémon
 
 <!--
 **angelboxes/angelboxes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
