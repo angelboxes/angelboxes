@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning about github actions
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: I like cats :smiley_cat:
 - ⚡ Fun fact: I really LOVE Pokémon :video_game:
 
